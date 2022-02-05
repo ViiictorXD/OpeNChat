@@ -1,0 +1,12 @@
+name: "local"
+symbol: "l"
+permission: "openchat.channel.local"
+color: "e"
+option:
+  delay: 0
+  cost: 0
+  cost_withdraw: false
+  shortcut: true
+  inside_world_distance: 30
+  mute: false
+type: "inside_world_distance"

@@ -1,0 +1,12 @@
+name: "global"
+symbol: "g"
+color: "7"
+permission: "openchat.channel.global"
+option:
+  delay: 3
+  cost: 0
+  cost_withdraw: false
+  shortcut: true
+  inside_world_distance: 0
+  mute: false
+type: "cross_world"

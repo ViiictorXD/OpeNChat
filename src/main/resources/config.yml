@@ -1,0 +1,16 @@
+connection:
+  type: "sqlite"
+  credential:
+    host: "localhost"
+    db: "minecraft"
+    name: "root"
+    pass: ""
+
+filters:
+  example:
+    filter: "kkk"
+    override: "***"
+
+default-channel: "local"
+format:
+  default: '{color}[{symbol}] &f{sender}{color}: {message}'
